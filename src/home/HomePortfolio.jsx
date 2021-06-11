@@ -69,7 +69,7 @@ class HomePortfolio extends Component{
                                                 <h2 className="title">About Caer8th</h2>
 
                                                 <p className="description">Vladimír Hirsch, better known as Caer8th, is one of Europe's most prolific street artists. Since getting his start at age 14, painting the subway tunnels of Prague, he has produced thousands of murals, canvases, outdoor paintings, and graffiti pieces, which are on display across Europe and the Middle East, and even on NASA’s official website.</p>
-                                                <p className="description">Caer8th’s work reflects a lifelong fascination with science fiction and surrealism. Formed of everything from oil paints to light, his art explores the nexus between the cosmos and human consciousness, and between nature and technology. While Caer8th prefers to keep the spotlight on his art – “I'm only the brush”</p>
+                                                <p className="description">Caer8th’s work reflects a lifelong fascination with science fiction and surrealism. Formed of everything from oil paints to light, his art explores the nexus between the cosmos and human consciousness, and between nature and technology. While Caer8th prefers to keep the spotlight on his art – “I'm only the brush” – you can reach him here:</p>
                                                 <div className="slide-btn"><a className="rn-button-style--2 rn-btn-dark" href="mailto:jakub@iamprague.eu">Contact Caer8th</a></div>
                                             </div>
 
